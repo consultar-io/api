@@ -9,6 +9,6 @@ Exemplos do uso da API do [Consultar.io](https://consultar.io/?utm_source=github
 - [Exemplo CNPJ](/python/cnpj.py) (cnpj.py)
 - [Exemplo CPF](/python/cpf.py) (cpf.py)
 
-## Documentação da API
+## Documentação
 
-Acesse a [Documentação da API](https://consultar.dev/?utm_source=github&utm_medium=readme&utm_campaign=api) para mais informações.
+Acesse a [Documentação](https://consultar.dev/?utm_source=github&utm_medium=readme&utm_campaign=api) para mais informações.
