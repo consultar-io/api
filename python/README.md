@@ -9,7 +9,7 @@ Exemplos do uso da API do [Consultar.io](https://consultar.io/?utm_source=github
 
 ## Requisitos
 
-- Python 3.8+
+- Python 3.8 ou superior
 - requests
 
 ## Instalação
