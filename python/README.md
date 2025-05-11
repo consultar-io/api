@@ -1,6 +1,6 @@
 # Exemplos da API do Consultar.io em Python
 
-Exemplos do uso da API do [Consultar.io](https://consultar.io/?utm_source=github&utm_medium=readme&utm_campaign=api) em **Python**.
+Exemplos do uso da API do [Consultar.io](https://consultar.io/?utm_source=github-api&utm_medium=referral&utm_campaign=python) em **Python**.
 
 ## Exemplos
 
@@ -68,4 +68,4 @@ python3 nome_do_script.py
 
 ## Documentação
 
-Acesse a [Documentação](https://consultar.dev/?utm_source=github&utm_medium=readme&utm_campaign=api) para mais informações.
+Acesse a [Documentação](https://consultar.dev/?utm_source=github-api&utm_medium=referral&utm_campaign=python) para mais informações.
