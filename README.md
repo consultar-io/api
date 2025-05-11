@@ -1,6 +1,6 @@
 # Exemplos API do Consultar.io
 
-Exemplos do uso da API do [Consultar.io](https://consultar.io/?utm_source=github&utm_medium=readme&utm_campaign=api).
+Exemplos do uso da API do [Consultar.io](https://consultar.io/?utm_source=github&utm_medium=readme&utm_campaign=api)
 
 ## Python
 
