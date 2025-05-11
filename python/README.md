@@ -30,13 +30,13 @@ python3 -m venv venv
 
 Ative o ambiente virtual:
 
-Linux/MacOS:
+- Linux/MacOS:
 
 ```bash
 source venv/bin/activate
 ```
 
-Windows:
+- Windows:
 
 ```bash
 venv\Scripts\activate
