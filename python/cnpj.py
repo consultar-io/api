@@ -123,7 +123,7 @@ def format_cnpj_info(resultado):
 def main():
     """Exemplo de uso da API de CNPJ."""
     # Substitua pelo seu token de API real
-    API_TOKEN = "your-api-token-here"
+    API_TOKEN = "seu-token-aqui"
 
     # Inicializa o cliente da API
     cnpj_api = CNPJAPI(API_TOKEN)

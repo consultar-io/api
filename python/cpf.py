@@ -60,7 +60,7 @@ class CPFAPI:
 def main():
     """Exemplo de uso da API de CPF."""
     # Substitua pelo seu token de API real
-    API_TOKEN = "your-api-token-here"
+    API_TOKEN = "seu-token-aqui"
 
     # Inicializa o cliente da API
     cpf_api = CPFAPI(API_TOKEN)
